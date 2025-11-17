@@ -2,24 +2,24 @@
 ai
 !gai
 人工智能
+
 新能源
 固态电池
-自动驾驶
+
 芯片
 光刻机
+
 机器人
 新质生产力
-航空
+
 
 大疆
 DJI
 比亚迪
 特斯拉
 马斯克
-
 微软
 Microsoft
-
 英伟达
 NVIDIA
 黄仁勋
@@ -29,7 +29,6 @@ AMD
 google
 gemini
 deepmind
-
 chatgpt
 openai
 sora
@@ -38,7 +37,6 @@ claude
 Anthropic
 
 
-国产
 中国
 美国
 日本
