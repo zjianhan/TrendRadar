@@ -10,7 +10,6 @@ ai
 新能源
 固态电池
 储能
-芯片
 机器人
 新质生产力
 
@@ -22,16 +21,11 @@ ai
 Microsoft
 英伟达
 NVIDIA
-黄仁勋
 AMD
 谷歌
 google
-gemini
-deepmind
 chatgpt
 openai
-sora
-DeepSeek
 claude
 Anthropic
 
